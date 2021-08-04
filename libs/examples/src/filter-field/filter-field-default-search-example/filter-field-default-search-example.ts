@@ -35,11 +35,7 @@ export class DtExampleFilterFieldDefaultSearch
       {
         name: 'Asia',
         defaultSearch: true,
-        suggestions: [
-          { name: 'Australia' },
-          { name: 'China' },
-          { name: 'India' },
-        ],
+        suggestions: [{ name: 'China' }, { name: 'India' }],
         validators: [],
       },
       {
